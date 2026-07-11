@@ -11,9 +11,7 @@
   <i>Building secure systems with Python and Rust. Passionate about Red Teaming, AI Security, Reverse Engineering, and Machine Learning.</i>
 </p>
 
-<p align="center">
-  <img src="final.png" width="180" alt="Chandan Kumar Barman" style="border-radius: 10px;" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandan3699&color=00ff88&style=flat-square&label=SECURE_SHIELD_SCANS" alt="Visitor Counter" />
